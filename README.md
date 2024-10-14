@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=munibahmed016&show_icons=true&locale=en&layout=compact" alt="munibahmed016" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munibahmed016&" alt="munibahmed016" /></p>
-<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
 
 <img align="center" height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
 

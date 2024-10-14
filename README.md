@@ -1,13 +1,15 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Munib-Ahmad</h1>
 <h3 align="center">A passionate full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Next, React Native**
+- 🔭 I’m currently working on **Next, React Native and Angular also**
 
 - 🌱 I’m currently learning **Angular and Core backend**
 
-- 💬 Ask me about **Web & App**
+- 👯 I’m looking to collaborate on **Full stack project**
+
+- 💬 Ask me about **Anything about Web & App**
+
+- 📫 How to reach me **munibahmad016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=munibahmed016&show_icons=true&locale=en&layout=compact" alt="munibahmed016" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munibahmed016&" alt="munibahmed016" /></p>
-

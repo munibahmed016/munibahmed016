@@ -23,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munibahmed016&" alt="munibahmed016" /></p>
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
+<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 

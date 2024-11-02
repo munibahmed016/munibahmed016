@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Munib-Ahmad</h1>
+<h1 align="center">Hi, 👋 I'm Munib-Ahmad</h1>
 <h3 align="center">A passionate full Stack Developer.</h3>
 
 - 🔭 I’m currently working on **Next, React Native and Angular also**

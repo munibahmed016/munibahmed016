@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Next, React Native and Angular also**
 
-- 🌱 I’m currently learning **AngularJs and Core backend**
+- 🌱 I’m currently learning **AngularJs VueJs and Core backend**
 
 - 👯 I’m looking to collaborate on **Full stack project**
 

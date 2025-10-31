@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Munib_Ahmed</h1>
 <h3 align="center">A passionate Full-Stack Developer.</h3>
 
-- 🔭 I’m currently working on **Next, React Native Angular and Vue also**
+- 🔭 I’m currently working on **Next, React Native Angular and Vue js also.**
 
 - 🌱 I’m currently learning **AngularJs VueJs and Core backend**
 

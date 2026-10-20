@@ -1,29 +1,114 @@
-<h1 align="center">Hi 👋 I'm Munib_Ahmed</h1>
-<h3 align="center">A passionate Full-Stack Developer </h3>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Munib%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="Munib Ahmed - Full-Stack Developer" />
 
-- 🔭 I’m currently working on **Next, React Native Angular and Vue js also.**
+<div align="center">
 
-- 🌱 I’m currently learning **AngularJs VueJs and Core backend**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+web+%26+mobile+applications;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Node.js;Clean+code.+Reliable+systems.+Great+UX." alt="Typing animation" />
+</a>
 
-- 👯 I’m looking to collaborate on **Full stack project**
+<br/>
 
-- 💬 Ask me about **Anything about Web & App**
+![Profile Views](https://komarev.com/ghpvc/?username=munibahmed016&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/munibahmed016?label=Followers&style=flat-square&logo=github&color=2c5364)](https://github.com/munibahmed016?tab=followers)
+[![Email](https://img.shields.io/badge/Email-munibahmed016%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:munibahmed016@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
-- 📫 How to reach me **munibahmad016@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/munib-ahmed-289aa0207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/munib-ahmed-289aa0207/" height="30" width="40" /></a>
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Developer** who designs and ships end-to-end products, from polished front-end interfaces to reliable back-end APIs and mobile apps. I care about clean architecture, performance, and a smooth user experience.
+
+| | |
+|---|---|
+| 🔭 **Currently working on** | Next.js, React Native, Angular and Vue.js |
+| 🌱 **Currently learning** | AngularJS, Vue.js and advanced back-end development |
+| 🤝 **Open to** | Collaborating on full-stack web and mobile projects |
+| 💬 **Ask me about** | Web apps, mobile apps, APIs and architecture |
+| 📫 **Reach me** | [munibahmed016@gmail.com](mailto:munibahmed016@gmail.com) |
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,ts,js,html,css,tailwind,bootstrap,redux&theme=dark" alt="Frontend skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Backend & Databases**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=munibahmed016&show_icons=true&locale=en&layout=compact" alt="munibahmed016" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql,rabbitmq&theme=dark" alt="Backend skills" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munibahmed016&" alt="munibahmed016" /></p>
-<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
+**Tools & DevOps**
 
-<img align="center" height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,vscode&theme=dark" alt="Tools" />
+</p>
 
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=munibahmed016&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munibahmed016&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=munibahmed016&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📄 <a href="https://github.com/munibahmed016/DocuSign">DocuSign</a></h3>
+      <p>Document signing application built with JavaScript.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%">
+      <h3>🍎 <a href="https://github.com/munibahmed016/Apple-Website">Apple Website</a></h3>
+      <p>Responsive Apple-inspired website with a focus on clean UI.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧬 <a href="https://github.com/munibahmed016/3Z-bio">3Z-bio</a></h3>
+      <p>Bio / landing experience built with TypeScript.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>🗂️ <a href="https://github.com/munibahmed016/Crud-App-">CRUD App</a></h3>
+      <p>Full CRUD application demonstrating data handling fundamentals.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+> 💡 Edit each description above so it matches what the project actually does.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting projects and collaborations.
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-munibahmed016%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munibahmed016@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
